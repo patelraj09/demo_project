@@ -16,7 +16,7 @@ public class Description extends AppCompatActivity {
 
     int img;
 
-    @SuppressLint("MissingInflatedId")
+    @SuppressLint("MissingInflatedId") 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
